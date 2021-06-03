@@ -10,8 +10,8 @@ To run the app (In Windows OS):
 2. Launch the BMI calculator by double clicking on the bat file: 
     ![](https://github.com/sri-spirited/tkinter_100_days_of_code/blob/sri-spirited-patch-1/img/1.launch_bat.png)
 3. Enter your weight and height in the appropriate metrics: 
-   ![]()
+   ![](https://github.com/sri-spirited/tkinter_100_days_of_code/blob/sri-spirited-patch-1/img/2.launched.png)
    Note that you'll get an error if you enter non-numeric values: 
-   ![]()
+   ![](https://github.com/sri-spirited/tkinter_100_days_of_code/blob/sri-spirited-patch-1/img/3.error.png)
 4. Press the calculate button to see your BMI: 
-   ![]()
+   ![](https://github.com/sri-spirited/tkinter_100_days_of_code/blob/sri-spirited-patch-1/img/4.output.png)

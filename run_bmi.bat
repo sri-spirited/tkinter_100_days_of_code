@@ -1,0 +1,1 @@
+C:\\ProgramData\\Anaconda3\\python.exe C:\Users\sridevi.madbhavi\Documents\2.NonProject\tkinter_100_days_of_code\bmi_calculator.py
